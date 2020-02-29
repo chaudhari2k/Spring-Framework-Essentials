@@ -80,6 +80,7 @@
           <executable-path>wle.exe</executable-path>
           <presentable-name>Pengwin Enterprise</presentable-name>
         </descriptor>
+        
         <descriptor>
           <id>ARCH</id>
           <microsoft-id>Arch</microsoft-id>
